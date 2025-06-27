@@ -1,16 +1,16 @@
-/* Custom font: Inter, clean sans-serif */
+/* Custom font: Inter */
 body {
   font-family: 'Inter', sans-serif;
-  background-color: #fefefe;    /* Off-white */
-  color: #111111;               /* Almost black */
+  background-color: #ffeccf;    
+  color: #111111;              
   margin: 0;
   padding: 20px;
   line-height: 1.6;
 }
 
-/* Minimal header */
+/* Header */
 header {
-  background-color: #fefefe;    /* Match body background */
+  background-color: #fefefe;    
   padding: 20px 0;
   border-bottom: 1px solid #dddddd;
 }
