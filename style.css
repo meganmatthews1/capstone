@@ -1,0 +1,20 @@
+/* ✅ Use a custom font from Google Fonts */
+body {
+  font-family: 'Pacifico', cursive;
+  background-color: #f0f8ff;   /* ✅ background color */
+  color: #333333;              /* ✅ text color */
+}
+
+/* Optional styling for clarity */
+header {
+  background-color: #ffdddd;
+  padding: 20px;
+}
+
+h1 {
+  color: #cc0000;
+}
+
+h2 {
+  color: #0066cc;
+}
