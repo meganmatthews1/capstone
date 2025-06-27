@@ -23,5 +23,9 @@ h1 {
 
 h2 {
   color: #008080;               /* Teal */
-  mar
+  margin-top: 40px;
+}
+
+p {
+  color: #111111;
 }
