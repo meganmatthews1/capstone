@@ -1,31 +1,26 @@
-/* ✅ Use a minimal custom font */
+/* Custom font: Inter, clean sans-serif */
 body {
   font-family: 'Inter', sans-serif;
-  background-color: #ffffff;   /* Clean white background */
-  color: #111111;              /* Black text */
+  background-color: #fefefe;    /* Off-white */
+  color: #111111;               /* Almost black */
   margin: 0;
-  padding: 0 20px;
+  padding: 20px;
   line-height: 1.6;
 }
 
-/* ✅ Teal header with black text */
+/* Minimal header */
 header {
-  background-color: #e0f7f7;   /* Soft teal background */
-  padding: 30px 20px;
-  border-bottom: 2px solid #008080;
+  background-color: #fefefe;    /* Match body background */
+  padding: 20px 0;
+  border-bottom: 1px solid #dddddd;
 }
 
 h1 {
-  color: #000000;              /* Bold black */
+  color: #000000;               /* Black */
   font-weight: 600;
   margin-bottom: 5px;
 }
 
 h2 {
-  color: #008080;              /* Teal for subheadings */
-  margin-top: 30px;
-}
-
-p {
-  color: #111111;
-}
+  color: #008080;               /* Teal */
+  mar
