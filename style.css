@@ -1,31 +1,43 @@
-/* Custom font: Inter */
+/* Clean custom font and minimalist design */
 body {
   font-family: 'Inter', sans-serif;
-  background-color: #fff8ed;    
-  color: #111111;              
+  background-color: #fff6ef;     /* off-white */
+  color: #111111;                /* soft black */
   margin: 0;
   padding: 20px;
-  line-height: 1.6;
+  line-height: 1.8;             
+  text-align: left;              
 }
 
-/* Header */
 header {
-  background-color: #fff8ed;    
+  text-align: center;          
   padding: 20px 0;
-  border-bottom: 1px solid #dddddd;
+  background-color: #fff6ef;
+  border-bottom: 1px solid #ccc;
 }
 
 h1 {
-  color: #000000;               /* Black */
-  font-weight: 600;
+  font-weight: 600;           
+  font-size: 32px;              
   margin-bottom: 5px;
+  color: #000000;
 }
 
 h2 {
-  color: #008080;               /* Teal */
-  margin-top: 40px;
+  font-weight: 400;
+  color: #008080;                /* teal */
+  margin-top: 30px;
 }
 
 p {
   color: #111111;
+  margin-bottom: 15px;
+}
+
+strong {
+  font-weight: bold;
+}
+
+em {
+  font-style: italic;
 }
