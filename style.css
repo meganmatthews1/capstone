@@ -1,7 +1,7 @@
 /* Clean custom font and minimalist design */
 body {
   font-family: 'Inter', sans-serif;
-  background-color: #fff6ef;     /* off-white */
+  background-color: #fffefd;     /* off-white */
   color: #111111;                /* soft black */
   margin: 0;
   padding: 20px;
@@ -12,7 +12,7 @@ body {
 header {
   text-align: center;          
   padding: 20px 0;
-  background-color: #fff6ef;
+  background-color: #fffefd;
   border-bottom: 1px solid #ccc;
 }
 
