@@ -58,6 +58,6 @@ em {
   width: 90%;                  
   padding-top: 25px;             
   margin-left: 5%;              
-  border-top: 3px dashed #ccc;  
+  border-top: 0.5px dashed #ccc;  
   background-color: #ffffff;
 }
