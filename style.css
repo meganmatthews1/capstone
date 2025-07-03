@@ -24,7 +24,8 @@ h1 {
 }
 
 h2 {
-  font-weight: 400;
+  font-weight: 400; 
+  font-size: 100px;
   color: #ffffff;                
   margin-top: 30px;
 }
@@ -74,7 +75,7 @@ em {
   background-image: url('mexico.jpg'); 
   background-size: cover;
   background-position: center;
-  height: 500px;
+  height: 400px;
   display: flex;
   align-items: center;
   justify-content: center;
