@@ -61,3 +61,23 @@ em {
   border-top: 0.5px dashed #ccc;  
   background-color: #ffffff;
 }
+
+/* Container div with max-width and centered */
+.wrapper {
+  max-width: 1000px;
+  margin: 0 auto;      
+  padding: 0 20px;
+}
+
+/* Background image with position */
+.hero-banner {
+  background-image: url('mexico.jpg'); 
+  background-size: cover;
+  background-position: center;
+  height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.7);
+}
